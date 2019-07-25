@@ -16,7 +16,6 @@ add_library( qdigidoccommon STATIC ${SOURCES}
 	DiagnosticsTask.cpp
 	IKValidator.cpp
 	QPCSC.cpp
-	SOAPDocument.cpp
 	Settings.h
 	SslCertificate.cpp
 	TokenData.cpp
